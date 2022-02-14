@@ -5,4 +5,8 @@ I'm a Ph.D student in computer science at Shahid Beheshti University (SBU), Tehr
 
 As a hobby, I usually use programming to solve real-world problems such as building websites, automating computer stuff, etc.
 
-![](https://komarev.com/ghpvc/?username=alirezaafzalaghaei)
+![Alireza's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaafzalaghaei&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
+![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=alirezaafzalaghaei&show_icons=true&theme=default&show_icons=true&count_private=true)
+
+![Alireza's github views](https://komarev.com/ghpvc/?username=alirezaafzalaghaei)
+
