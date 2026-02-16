@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Ph.D student in computer science at Shahid Beheshti University (SBU), Tehran, Iran. My current studies can be summarized as:
+My current studies can be summarized as:
 - Applications of machine learning methods in mathematics.
 - Applications of mathematics in machine learning methods.
 
